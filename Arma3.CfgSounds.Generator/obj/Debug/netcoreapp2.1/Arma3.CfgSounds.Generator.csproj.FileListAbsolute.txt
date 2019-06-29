@@ -1,0 +1,11 @@
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\bin\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.deps.json
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\bin\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.runtimeconfig.json
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\bin\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.runtimeconfig.dev.json
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\bin\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.dll
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\bin\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.pdb
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\obj\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.csprojAssemblyReference.cache
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\obj\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.csproj.CoreCompileInputs.cache
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\obj\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.AssemblyInfoInputs.cache
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\obj\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.AssemblyInfo.cs
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\obj\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.dll
+C:\Users\an_bi\Source\Repos\Arma3.CfgSounds.Generator\Arma3.CfgSounds.Generator\obj\Debug\netcoreapp2.1\Arma3.CfgSounds.Generator.pdb
